@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Md Irshad Alam
-
+** A passionate Software Engineer from India **
 
 Email Me 👉 ✉️ **mdirshadalam9693.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** 
+ 
+- 🔭 **I’m currently learning** 
 - 🌱 **I’m currently learning:** App Development , Web Development
 - 👯 **I’m looking to collaborate on:** 
 - 🤔 **I’m looking for help with:**
