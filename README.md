@@ -32,10 +32,7 @@ Email Me 👉 ✉️ **mdirshadalam9693.com** For Collaboration/Project or Anyth
   ![Issues](https://img.shields.io/badge/Issues-Tracked-red?style=for-the-badge&logo=github&logoColor=white)
 
   <!-- Animated trophy GIF -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" alt="Trophy Animation"/>
-</p>
-
-
+  <img src="https://i.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60" alt="Trophy Animation" />
 
 
 ## 🌐 Socials:
