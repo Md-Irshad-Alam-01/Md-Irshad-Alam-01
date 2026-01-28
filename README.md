@@ -22,13 +22,14 @@ Email Me 👉 ✉️ **mdirshadalam9693.com** For Collaboration/Project or Anyth
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
 <a href="mailto:mdirshadalam9693@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://twitter.com/md_irshad_alam" target="_blank">
+<a href="https://x.com/Md_Irshad__Alam" target="_blank">
   <img align="center"
        src="https://simpleicons.org/icons/x.svg"
        alt="X (Twitter)"
        height="30"
        width="40" />
 </a>
+
 
 
 
